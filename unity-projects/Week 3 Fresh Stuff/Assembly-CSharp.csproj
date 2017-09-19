@@ -51,6 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\input.cs" />
+     <Compile Include="Assets\KeyboardGeneral.cs" />
      <Compile Include="Assets\Rotate.cs" />
      <Compile Include="Assets\RotateOnHover.cs" />
      <Compile Include="Assets\Spawner.cs" />
