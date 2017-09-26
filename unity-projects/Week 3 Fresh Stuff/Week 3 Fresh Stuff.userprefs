@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RotateOnHover.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KeyboardGeneral.cs">
     <Files>
+      <File FileName="Assets/input.cs" Line="29" Column="1" />
       <File FileName="Assets/Rotate.cs" Line="21" Column="1" />
       <File FileName="Assets/RotateOnHover.cs" Line="21" Column="1" />
+      <File FileName="Assets/KeyboardGeneral.cs" Line="21" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

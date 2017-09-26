@@ -27,5 +27,6 @@ public class KeyboardGeneral : MonoBehaviour {
 			Instantiate (go2, transform.position, Quaternion.identity);
 		}
 
+
 	}
 }

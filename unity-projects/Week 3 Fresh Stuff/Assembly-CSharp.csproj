@@ -51,11 +51,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\input.cs" />
-     <Compile Include="Assets\KeyboardGeneral.cs" />
-     <Compile Include="Assets\Rotate.cs" />
-     <Compile Include="Assets\RotateOnHover.cs" />
-     <Compile Include="Assets\Spawner.cs" />
+     <Compile Include="Assets\MouseStuff.cs" />
+     <Compile Include="Assets\Week 4\input.cs" />
+     <Compile Include="Assets\Week 4\KeyboardGeneral.cs" />
+     <Compile Include="Assets\Week 4\ProjectAttempt1\RotateOnButton.cs" />
+     <Compile Include="Assets\Week 4\ProjectAttempt1\SpawnOnButton.cs" />
+     <Compile Include="Assets\Week 4\Rotate.cs" />
+     <Compile Include="Assets\Week 4\RotateOnHover.cs" />
+     <Compile Include="Assets\Week 4\Spawner.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
