@@ -135,9 +135,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49222b5ef17de4f41a1b7c5f59625932, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  go: {fileID: 1052529753918436, guid: 8c506e73eb88844eebb01e4781ef2e43, type: 2}
-  go2: {fileID: 1021348521808188, guid: 2bb297b96f1f34e3f9d1dd2e1caeef10, type: 2}
-  go3: {fileID: 1095082040265406, guid: f866c6670cc0f411196f110080757acc, type: 2}
+  go: {fileID: 1345583903479986, guid: 0e9e6e4fd44bc43fea314be42b0d1cfb, type: 2}
+  go2: {fileID: 1671514037038166, guid: e241cff42ed0f480eb478e8fdf9cadc2, type: 2}
+  go3: {fileID: 1092318013713638, guid: d41b79af22e7e446f903c7c3ab124ace, type: 2}
   StartAfter: 1
   SpawnFrequency: 0.5
 --- !u!4 &158888095
@@ -245,7 +245,7 @@ GameObject:
   - component: {fileID: 997967427}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Terrain
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
