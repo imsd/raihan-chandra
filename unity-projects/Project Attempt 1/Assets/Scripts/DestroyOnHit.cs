@@ -12,9 +12,9 @@ public class DestroyOnHit : MonoBehaviour {
 			Destroy(collision.gameObject);
 			Destroy(this.gameObject);
 		}
-		else {
-			Destroy (this.gameObject, 3);
-	}
+		//else {
+			//Destroy (this.gameObject, 3);
+	//}
 
 
 }
