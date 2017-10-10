@@ -6,4 +6,4 @@ Hit the cubes!
 
 ![The project in action](projcap)
 
-[projcap]: https://imgur.com/HbAVRGc "project screenshot"
+[projcap]: https://imgur.com/HbAVRGc.png "project screenshot"
