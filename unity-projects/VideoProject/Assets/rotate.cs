@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class rotate : MonoBehaviour {
+
 	public Vector3 myRotation;
 
 	// U

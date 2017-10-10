@@ -4,4 +4,6 @@ Use left mouse to aim
 Left click to fire
 Hit the cubes!
 
-![The project in action](proj1.gif)
+![The project in action](projcap)
+
+[projcap]: https://imgur.com/HbAVRGc "project screenshot"
