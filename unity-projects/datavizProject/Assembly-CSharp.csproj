@@ -51,8 +51,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\JSON\JSONObject.cs" />
+     <Compile Include="Assets\JSON\JSONTemplates.cs" />
+     <Compile Include="Assets\JSON\VectorTemplates.cs" />
      <Compile Include="Assets\Scripts\ChampionIDScript.cs" />
      <Compile Include="Assets\Scripts\JSONarray.cs" />
+     <None Include="Assets\misty\misty.shader" />
+     <None Include="Assets\JSON\readme.txt" />
+     <None Include="Assets\misty\readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

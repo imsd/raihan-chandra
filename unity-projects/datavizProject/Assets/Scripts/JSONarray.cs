@@ -5,6 +5,7 @@ using UnityEngine;
 public class JSONarray : MonoBehaviour {
 
 	public string url = "https://s3-us-west-1.amazonaws.com/riot-developer-portal/seed-data/matches1.json";
+	public GameObject[] ChampIndex;
 
 	// Use this for initialization
 	IEnumerator Start () {
@@ -40,6 +41,10 @@ public class JSONarray : MonoBehaviour {
 
 				// prints out each instance of each hero ID that is used
 				Debug.Log (hero.ToString ());
+
+				int heroID;
+				int.TryParse (hero.ToString (), out heroID);
+				ChampIndex [heroID].transform.Rotate(new Vector3(0, 45, 0));
 			}
 
 		}

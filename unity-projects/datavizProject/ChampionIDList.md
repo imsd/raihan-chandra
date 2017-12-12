@@ -20,8 +20,8 @@
 - Corki: 42
 - Darius: 122
 - Diana: 131
-- Dr. Mundo: 119
-- Draven: 36
+- Dr. Mundo: 36
+- Draven: 119
 - Ekko: 245
 - Elise: 60
 - Evelynn: 28
