@@ -44,7 +44,7 @@ public class JSONarray : MonoBehaviour {
 
 				int heroID;
 				int.TryParse (hero.ToString (), out heroID);
-				ChampIndex [heroID].transform.Rotate(new Vector3(0, 45, 0));
+				ChampIndex [heroID].transform.localScale+= new Vector3(1F, 1f, 1f);
 			}
 
 		}

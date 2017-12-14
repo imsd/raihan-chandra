@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JSONarray.cs">
     <Files>
-      <File FileName="Assets/Scripts/JSONarray.cs" Line="7" Column="105" />
+      <File FileName="Assets/Scripts/JSONarray.cs" Line="39" Column="34" />
       <File FileName="Assets/Scripts/ChampionIDScript.cs" Line="11" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
